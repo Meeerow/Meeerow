@@ -1,14 +1,12 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Amirah
 <a href="https://www.linkedin.com/in/amirah08"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate about cybersecurity, driven by problem-solving and curiosity about technology. Experienced in electronics engineering, transitioning skills seamlessly into cybersecurity domain.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst as a career starter in cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -17,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Malware Analysis (Encrypt and Decrypt only)   | <a href="https://youtu.be/d5rQ-vlYqYo">Analysis Lab</a>|
 | Network Scanning and Social Engineering       | <a href="https://google.com">Detection Lab</a>|
-| Packet Analysis with Wireshark                | Network Lab|
+| Packet Analysis with Wireshark                | <a href="https://youtu.be/QIUnAdbNwbs"> Network Lab</a>|
 | Access Control Using Linux IPTable            | Network Lab|
 | Memory Dump Using DumpIT Tool                 | Forensics Lab|
 | Memory Dump Analysis                          | Forensics Lab|
