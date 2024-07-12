@@ -6,7 +6,7 @@ Passionate about cybersecurity, driven by problem-solving and curiosity about te
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst as a career starter in cybersecurity.
 
-## Skills
+## Skills (Under Construction, Stay Tuned!)
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Scanning and Social Engineering       | <a href="https://google.com">Network Security</a>|
@@ -28,6 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [![HxD](https://img.shields.io/badge/-HxD-000000?&style=for-the-badge)](https://mh-nexus.de/en/hxd/)
 [![AccessData FTK](https://img.shields.io/badge/-AccessData%20FTK-000000?&style=for-the-badge)](https://accessdata.com/products-services/forensic-toolkit-ftk)
 [![Setoolkit](https://img.shields.io/badge/-Setoolkit-000000?&style=for-the-badge)](https://github.com/trustedsec/social-engineer-toolkit)
+[![Nmap](https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge)](https://nmap.org)
+
 
 
 ## Certifications
