@@ -14,7 +14,7 @@ Networks
 | Home Router Setup                             | Principle Networking Lab|
 | Network Topology Design                       | Network Design & Management Lab|
 | Operating System Installation - Windows 11    |<a href="https://youtu.be/UBnBCtp-go4?si=IabdvLlgCUwnRz4Y"> Network System & Administration Lab</a>|
-| Operating System Installation - Windows Server 2019| Network System & Administration Lab|
+| Operating System Installation - Windows Server 2022| Network System & Administration Lab|
 | Oracle VirtualBox Setup and Installation      | Network System & Administration Lab|
 
 
